@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+cmake = "==3.21.1"
+numpy = "==1.21.1"
+opencv-contrib-python = "==4.5.3.56"
+dlib = "==19.22.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
