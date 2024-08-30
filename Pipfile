@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 cmake = "==3.21.1"
 numpy = "==1.21.1"
-opencv-contrib-python = "==4.5.3.56"
+opencv-contrib-python = "==4.8.1.78"
 dlib = "==19.22.0"
 
 [dev-packages]
